@@ -1,0 +1,11 @@
+class Student:
+    # [assignment] Skeleton class. Add your code here
+    class student:
+     def __init__(self, name, age, tracks, score):       
+        pass
+
+        self.name = str(name)
+        self.age = int(age)
+        self.tracks = tracks
+        self.score = float(score)
+        def change_name(self, change_name)
